@@ -1,2 +1,3 @@
 # Demo
-this is my ist repo
+this is my  1st  github repo
+author - naveen
